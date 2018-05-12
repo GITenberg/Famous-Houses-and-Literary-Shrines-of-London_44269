@@ -1,0 +1,41 @@
+_repo: Famous-Houses-and-Literary-Shrines-of-London_44269
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Adcock, Frederick
+    gutenberg_agent_id: '42664'
+    url: http://www.gutenberg.org/2009/agents/42664
+covers:
+- cover_type: archival
+  image_path: 44269-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adcock, Arthur St. John
+    alias: Adcock, A. St. John
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '42663'
+    url: http://www.gutenberg.org/2009/agents/42663
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44269'
+  lccn: '12040656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Intellectual life'
+- !lcsh 'Literary landmarks -- England -- London'
+- !lcsh 'Authors, English -- Homes and haunts -- England -- London'
+- !lcsh 'Artists -- Homes and haunts -- England -- London'
+tableOfContents: Some celebrated Cockneys -- Shakespeare in London -- Where Pope stayed
+  at Battersea -- Hogarth -- Goldsmith, Reynolds, and some of their circle -- Homes
+  and haunts of Johnson and Boswell -- Blake and Flaxman -- A Hampstead group -- Round
+  about Soho again -- A philosopher, two poets, and a novelist -- Charles Lamb --
+  St. John's Wood and Wimbledon -- Chelsea memories -- Thackeray -- Dickens -- Conclusion.
+title: Famous Houses and Literary Shrines of London
+url: http://www.gutenberg.org/ebooks/44269
